@@ -26,8 +26,8 @@
 
 | # | Name | Roll Number | Role |
 |---|---|---|---|
-| 1 | **Karan Arora** | 2210991749 | Team Member |
-| 2 | **Sidhant Singh Bhadauriya** | 2210992377 | Team Member |
+| 1 | **Sidhant Singh Bhadauriya** | 2210992377 | Team Lead |
+| 2 | **Karan Arora** | 2210991749 | Team Member |
 | 3 | **Harsh Kumar Sahu** | 2210991620 | Team Member |
 | 4 | **Bhargav Singla** | 2210990214 | Team Member |
 
