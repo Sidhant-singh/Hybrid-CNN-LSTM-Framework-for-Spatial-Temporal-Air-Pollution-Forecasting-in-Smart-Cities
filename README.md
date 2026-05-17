@@ -194,7 +194,7 @@ For queries related to this research, please reach out to any team member via yo
 
 <div align="center">
 
-**© 2024 — Karan Arora · Sidhant Singh Bhadauriya · Harsh Kumar Sahu · Bhargav Singla**
+**© 2026 — Karan Arora · Sidhant Singh Bhadauriya · Harsh Kumar Sahu · Bhargav Singla**
 
 *Research Paper | Conference Accepted | AI & Environmental Science*
 
